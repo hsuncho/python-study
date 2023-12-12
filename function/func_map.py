@@ -32,4 +32,4 @@ def max_of_three(n1, n2, n3):
 
 n1, n2, n3 = map(int, input('정수 세 개를 공백으로 구분해서 각각 입력하세요: ').split())
 
-print(f'최대값: {max_of_three(n1, n2, n3)}')
+print(f'최대값: {max_of_three(n1, n2, n3)}')  
